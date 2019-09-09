@@ -1,0 +1,11 @@
+{
+  "name": "img-reader",
+  "version": "1.0.0",
+  "description": "Image Reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joenix",
+  "license": "MIT"
+}
